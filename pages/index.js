@@ -114,8 +114,7 @@ const Page = () => {
           </Heading>
           <Paragraph>
             Rachardika is a junior front-end developer based in Salatiga, Central Java with a passion for
-            building website, from planning and designing UI / UX. When not online, he loves sport and music, you can read 
-            his Resume bellow.
+            building website, from planning and designing UI / UX.  Just Relax and Keep Scrolling 😁.
           </Paragraph>
           <Box
             align="center"
